@@ -27,3 +27,4 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 ### Switch to Access Point Connections
 - SW1 G1/0/11 → WAP1
 - SW1 G1/0/12 → WAP2
+- SW1 G1/0/13 → WAP3
