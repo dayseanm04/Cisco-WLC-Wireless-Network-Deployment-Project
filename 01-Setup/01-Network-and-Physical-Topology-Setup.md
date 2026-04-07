@@ -19,3 +19,5 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 ## Physical Connections
 
 ### Router to Switch Connections
+- Router1 G1/0/3 → SW1 G1/0/3
+- Router1 G1/0/4 → SW1 G1/0/4
