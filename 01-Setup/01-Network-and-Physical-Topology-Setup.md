@@ -33,9 +33,10 @@ Note: if you forget what which port is connected to which port use **cdp** to di
 
 <img width="809" height="188" alt="R1" src="https://github.com/user-attachments/assets/9dfee66f-0bfa-4782-9cdf-46b0e63b8dcd" />
 
-<img width="767" height="141" alt="SW1" src="https://github.com/user-attachments/assets/4bd23c55-ab11-4c38-bb26-d683ec5bcbc8" />
+<img width="762" height="153" alt="SW1" src="https://github.com/user-attachments/assets/5156c306-2026-48f5-9007-efa862ce5ef6" />
 
-<img width="777" height="137" alt="SW2" src="https://github.com/user-attachments/assets/b85fe1b6-5db0-43da-b95b-82acab8ddccd" />
+<img width="783" height="172" alt="SW2" src="https://github.com/user-attachments/assets/13aec28e-e497-4220-9410-8606d5c291da" />
+
 
 ### Switch to Access Point Connections
 - SW1 G1/0/11 → WAP1
