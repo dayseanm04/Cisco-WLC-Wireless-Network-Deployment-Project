@@ -23,3 +23,7 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 - Router1 G1/0/4 → SW1 G1/0/4
 - Router1 G1/0/5 → SW2 G1/0/5
 - Router1 G1/0/6 → SW2 G1/0/6
+
+### Switch to Access Point Connections
+- SW1 G1/0/11 → WAP1
+- SW1 G1/0/12 → WAP2
