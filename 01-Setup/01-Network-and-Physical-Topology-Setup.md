@@ -45,3 +45,10 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 - A-PC2 → SW2 G1/0/11
 - A-PC3 → SW2 G1/0/12
 - A-PC4 → SW2 G1/0/13
+
+#### IT Department (Information Technology DPT)
+- IT-PC1 → SW1 G1/0/20
+- IT-PC2 → SW1 G1/0/21
+
+
+
