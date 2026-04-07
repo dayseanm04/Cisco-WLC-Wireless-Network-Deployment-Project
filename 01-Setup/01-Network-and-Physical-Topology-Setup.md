@@ -64,5 +64,9 @@ end
 write memory
 ```
 
+## Reference Topology
+
+<img width="839" height="511" alt="intial-topology" src="https://github.com/user-attachments/assets/d7d4dfce-c101-4027-9ae3-d53a9c3fc108" />
+
 
 
