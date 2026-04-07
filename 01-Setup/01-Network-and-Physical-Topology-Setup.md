@@ -25,6 +25,8 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 - Router1 G1/0/6 → SW2 G1/0/6
 
 ### Switch to Switch Connections
+- SW1 G1/0/2 → SW2 G1/0/2
+- SW1 G1/0/3 → SW2 G1/0/3
 
 
 Note: if you forget what which port is connected to which port use **cdp** to dicover the ports and where where connected to.
