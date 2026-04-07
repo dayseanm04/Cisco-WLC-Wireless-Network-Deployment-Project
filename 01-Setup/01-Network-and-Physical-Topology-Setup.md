@@ -31,3 +31,13 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 
 ### Management Connection
 - SW1 G1/0/14 → Management PC
+
+### Switch to PC Connections
+
+#### HR Department (HR DPT)
+- HR-PC1 → SW2 G1/0/1
+- HR-PC2 → SW2 G1/0/2
+- HR-PC3 → SW2 G1/0/3
+- HR-PC4 → SW2 G1/0/4
+
+
