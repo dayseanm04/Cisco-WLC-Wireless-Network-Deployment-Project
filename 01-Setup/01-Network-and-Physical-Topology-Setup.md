@@ -1,4 +1,4 @@
-# 01-Network-and-Physical-Topology-Setup
+# 01 Network and Physical Topology Setup
 
 ## Objective
 Build the core network topology by connecting all devices and enabling Layer 3 routing on the switches to support the WLC and wireless access points.
@@ -9,6 +9,8 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 - Cisco 3650 (SW2)
 - Cisco 3504 Wireless LAN Controller (WLC)
 - 3 Wireless Access Points (WAP1, WAP2, WAP3)
+- Management PC
+
 
 ## Network Information
 - WLC IP Address: 192.168.50.254/24
