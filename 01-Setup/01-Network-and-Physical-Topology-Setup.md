@@ -50,5 +50,19 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 - IT-PC1 → SW1 G1/0/20
 - IT-PC2 → SW1 G1/0/21
 
+## Initial Switch Configuration
+
+### Enable Layer 3 Routing on Core Switches
+
+On **SW1** and **SW2**:
+
+```bash
+enable
+configure terminal
+ip routing
+end
+write memory
+```
+
 
 
