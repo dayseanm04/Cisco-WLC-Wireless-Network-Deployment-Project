@@ -15,3 +15,7 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 ## Network Information
 - WLC IP Address: 192.168.50.254/24
 - Management PC IP Address: 192.168.50.10/24 (Static)
+
+## Physical Connections
+
+### Router to Switch Connections
