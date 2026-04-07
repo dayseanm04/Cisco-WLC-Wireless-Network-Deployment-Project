@@ -40,4 +40,8 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 - HR-PC3 → SW2 G1/0/3
 - HR-PC4 → SW2 G1/0/4
 
-
+#### Administration Department (Administration DPT)
+- A-PC1 → SW2 G1/0/10
+- A-PC2 → SW2 G1/0/11
+- A-PC3 → SW2 G1/0/12
+- A-PC4 → SW2 G1/0/13
