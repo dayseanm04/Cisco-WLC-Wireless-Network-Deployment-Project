@@ -10,7 +10,9 @@ The design includes management, corporate, and server VLANs to support the WLC, 
 |--------|-------------|----------------------------------|---------------------|-------------------|
 | 50     | Management  | WLC and network management       | 192.168.50.0/24     | 192.168.50.1      |
 | 100    | Corp        | Corporate wireless clients       | N/A                 | N/A               |
+| 200    | Server-VLAN | Internal servers and services    | 10.0.0.0/24         | 10.0.0.1          |
 
+## VLAN Design Details
 
 
 
