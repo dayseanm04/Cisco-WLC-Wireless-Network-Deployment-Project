@@ -35,8 +35,8 @@ Note: if you forget what which port is connected to which port use **cdp** to di
 
 <img width="796" height="132" alt="R2" src="https://github.com/user-attachments/assets/f5f9ed50-7203-4721-aa5f-eed5f07ce543" />
 
+<img width="792" height="156" alt="SW1" src="https://github.com/user-attachments/assets/4435b8a7-2bf1-4c06-a295-bcc8ad44d62d" />
 
-<img width="762" height="153" alt="SW1" src="https://github.com/user-attachments/assets/5156c306-2026-48f5-9007-efa862ce5ef6" />
 
 <img width="785" height="154" alt="SW2" src="https://github.com/user-attachments/assets/db95b333-bbb4-484e-bc93-573978ae3717" />
 
