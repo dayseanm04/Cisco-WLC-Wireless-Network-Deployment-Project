@@ -6,6 +6,14 @@ The design includes management, corporate, and server VLANs to support the WLC, 
 
 ## VLAN Summary
 
+The following VLANs are used to segment wired users by department. This improves security, organization, and traffic control across the network.
+
+| VLAN ID | Name                | Department             | Purpose                          | Subnet | Default Gateway |
+|--------|----------------------|------------------------|----------------------------------|--------|-----------------|
+| 10     | HR DPT               | Human Resources        | HR user devices and resources    | N/A     | N/A            |
+| 20     | Administration DPT   | Administration         | Administrative staff devices     | N/A    | N/A             |
+| 30     | IT DPT               | Information Technology | IT staff and management systems  | N/A    | N/A             |
+
 | VLAN ID | Name         | Purpose                          | Subnet              | Default Gateway   |
 |--------|-------------|----------------------------------|---------------------|-------------------|
 | 50     | Management  | WLC and network management       | 192.168.50.0/24     | 192.168.50.1      |
@@ -23,13 +31,3 @@ The design includes management, corporate, and server VLANs to support the WLC, 
 - Dedicated network for internal servers
 - Isolated from user VLANs for security
 - Provides backend services (DHCP etc.)
-
-The following VLANs are used to segment wired users by department. This improves security, organization, and traffic control across the network.
-
-| VLAN ID | Name                | Department             | Purpose                          | Subnet | Default Gateway |
-|--------|----------------------|------------------------|----------------------------------|--------|-----------------|
-| 10     | HR DPT               | Human Resources        | HR user devices and resources    | N/A     | N/A            |
-| 20     | Administration DPT   | Administration         | Administrative staff devices     | N/A    | N/A             |
-| 30     | IT DPT               | Information Technology | IT staff and management systems  | N/A    | N/A             |
-
-
