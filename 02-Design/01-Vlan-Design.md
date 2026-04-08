@@ -19,3 +19,7 @@ The design includes management, corporate, and server VLANs to support the WLC, 
 - Includes management PC and WAPs
 - Provides centralized control of wireless infrastructure
 
+### VLAN 200 – Server VLAN
+- Dedicated network for internal servers
+- Isolated from user VLANs for security
+- Provides backend services (DHCP etc.)
