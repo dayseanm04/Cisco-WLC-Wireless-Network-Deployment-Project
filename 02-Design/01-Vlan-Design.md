@@ -30,5 +30,6 @@ The following VLANs are used to segment wired users by department. This improves
 |--------|----------------------|------------------------|----------------------------------|--------|-----------------|
 | 10     | HR DPT               | Human Resources        | HR user devices and resources    | N/A     | N/A            |
 | 20     | Administration DPT   | Administration         | Administrative staff devices     | N/A    | N/A             |
+| 30     | IT DPT               | Information Technology | IT staff and management systems  | N/A    | N/A             |
 
 
