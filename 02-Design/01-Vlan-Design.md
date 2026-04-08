@@ -8,7 +8,6 @@ The design includes management, corporate, and server VLANs to support the WLC, 
 
 | VLAN ID | Name         | Purpose                          | Subnet              | Default Gateway   |
 |--------|-------------|----------------------------------|---------------------|-------------------|
-| 10    | HR-DPT | HR    | 10.0.0.0/24         | 10.0.0.1          |
 | 50     | Management  | WLC and network management       | 192.168.50.0/24     | 192.168.50.1      |
 | 100    | Corp        | Corporate wireless clients       | N/A                 | N/A               |
 | 200    | Server-VLAN | Internal servers and services    | 10.0.0.0/24         | 10.0.0.1          |
@@ -24,3 +23,11 @@ The design includes management, corporate, and server VLANs to support the WLC, 
 - Dedicated network for internal servers
 - Isolated from user VLANs for security
 - Provides backend services (DHCP etc.)
+
+The following VLANs are used to segment wired users by department. This improves security, organization, and traffic control across the network.
+
+| VLAN ID | Name                 | Department             | Purpose                          | Subnet | Default Gateway |
+|--------|----------------------|------------------------|----------------------------------|--------|-----------------|
+| 10     | HR DPT               | Human Resources        | HR user devices and resources    | N/A     | N/A              |
+
+
