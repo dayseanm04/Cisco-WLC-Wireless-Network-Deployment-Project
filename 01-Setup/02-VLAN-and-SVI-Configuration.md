@@ -11,6 +11,17 @@ Configure initial VLANs, SVIs, and trunk links to enable network segmentation an
 | 100    | corp | Initial WLAN VLAN   |          |        |
 | 200    | Server-VLAN | Internal server network   | 10.0.0.0/24         | 10.0.0.1       |
 
+### Example Configuration (VLAN)
+
+In Global config mode on **SW1**:
+
+```bash
+vlan 50
+name WAPs-VLAN
+exit
+```
+
+
 ## SVI Configuration
 
 Layer 3 interfaces are configured on the switch to enable routing between VLANs.
