@@ -14,5 +14,8 @@ The design includes management, corporate, and server VLANs to support the WLC, 
 
 ## VLAN Design Details
 
-
+### VLAN 50 – Management
+- Used for WLC andWAP management
+- Includes management PC and WAPs
+- Provides centralized control of wireless infrastructure
 
