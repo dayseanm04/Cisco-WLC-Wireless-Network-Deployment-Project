@@ -38,7 +38,8 @@ Note: if you forget what which port is connected to which port use **cdp** to di
 
 <img width="762" height="153" alt="SW1" src="https://github.com/user-attachments/assets/5156c306-2026-48f5-9007-efa862ce5ef6" />
 
-<img width="783" height="172" alt="SW2" src="https://github.com/user-attachments/assets/13aec28e-e497-4220-9410-8606d5c291da" />
+<img width="785" height="154" alt="SW2" src="https://github.com/user-attachments/assets/db95b333-bbb4-484e-bc93-573978ae3717" />
+
 
 
 ### Switch to Access Point Connections
