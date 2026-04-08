@@ -31,7 +31,8 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 
 Note: if you forget what which port is connected to which port use **cdp** to dicover the ports and where where connected to.
 
-<img width="809" height="188" alt="R1" src="https://github.com/user-attachments/assets/9dfee66f-0bfa-4782-9cdf-46b0e63b8dcd" />
+<img width="796" height="132" alt="R2" src="https://github.com/user-attachments/assets/f5f9ed50-7203-4721-aa5f-eed5f07ce543" />
+
 
 <img width="762" height="153" alt="SW1" src="https://github.com/user-attachments/assets/5156c306-2026-48f5-9007-efa862ce5ef6" />
 
