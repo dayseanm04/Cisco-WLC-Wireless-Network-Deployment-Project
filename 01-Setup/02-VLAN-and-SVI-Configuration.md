@@ -14,3 +14,7 @@ Configure initial VLANs, SVIs, and trunk links to enable network segmentation an
 ## SVI Configuration
 
 Layer 3 interfaces are configured on the switch to enable routing between VLANs.
+| Interface     | IP Address      | Subnet Mask        | Description              |
+|--------------|-----------------|--------------------|--------------------------|
+| VLAN 50      | 192.168.50.1    | 255.255.255.0      | Management gateway       |
+| VLAN 200     | 10.0.0.1        | 255.255.255.0      | Server VLAN gateway      |
