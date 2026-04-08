@@ -18,6 +18,15 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 
 ## Physical Connections
 
+### Switch to Access Point Connections
+- SW1 G1/0/11 → WAP1
+- SW1 G1/0/12 → WAP2
+- SW1 G1/0/13 → WAP3
+- SW1 G1/1/1 → WLC1 G1
+
+### Management Connection
+- SW1 G1/0/14 → Management PC
+
 ### Router to Switch Connections
 - Router1 G1/0/3 → SW1 G1/0/3
 - Router1 G1/0/4 → SW1 G1/0/4
@@ -27,7 +36,6 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 ### Switch to Switch Connections
 - SW1 G1/0/2 → SW2 G1/0/2
 - SW1 G1/0/3 → SW2 G1/0/3
-
 
 Note: if you forget what which port is connected to which port use **cdp** to dicover the ports and where where connected to.
 
@@ -40,16 +48,6 @@ Note: if you forget what which port is connected to which port use **cdp** to di
 
 <img width="785" height="154" alt="SW2" src="https://github.com/user-attachments/assets/db95b333-bbb4-484e-bc93-573978ae3717" />
 
-
-
-### Switch to Access Point Connections
-- SW1 G1/0/11 → WAP1
-- SW1 G1/0/12 → WAP2
-- SW1 G1/0/13 → WAP3
-- SW1 G1/1/1 → WLC1 G
-
-### Management Connection
-- SW1 G1/0/14 → Management PC
 
 ### Switch to PC Connections
 
