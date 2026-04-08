@@ -46,6 +46,7 @@ Note: if you forget what which port is connected to which port use **cdp** to di
 - SW1 G1/0/11 → WAP1
 - SW1 G1/0/12 → WAP2
 - SW1 G1/0/13 → WAP3
+- SW1 G1/1/1 → WLC1 G
 
 ### Management Connection
 - SW1 G1/0/14 → Management PC
