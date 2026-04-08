@@ -29,3 +29,14 @@ Layer 3 interfaces are configured on the switch to enable routing between VLANs.
 |--------------|-----------------|--------------------|--------------------------|
 | VLAN 50      | 192.168.50.1    | 255.255.255.0      | Management gateway       |
 | VLAN 200     | 10.0.0.1        | 255.255.255.0      | Server VLAN gateway      |
+
+### Example Configuration (SVI)
+
+In Global config mode on **SW1**:
+
+```bash
+interface vlan 50
+ip address 192.168.50.1 255.255.255.0
+no shutdown
+```
+
