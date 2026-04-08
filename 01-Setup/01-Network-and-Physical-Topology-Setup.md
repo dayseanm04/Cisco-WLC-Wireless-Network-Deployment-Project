@@ -80,7 +80,9 @@ write memory
 
 ## Reference Topology
 
-<img width="839" height="511" alt="intial-topology" src="https://github.com/user-attachments/assets/d7d4dfce-c101-4027-9ae3-d53a9c3fc108" />
+<img width="797" height="455" alt="topology-1" src="https://github.com/user-attachments/assets/c3c06300-fe9a-49e8-acb1-8a054ef49a8e" />
+
+
 
 
 
