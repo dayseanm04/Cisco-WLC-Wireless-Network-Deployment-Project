@@ -24,7 +24,8 @@ Loopback interfaces will be used used for Network device identification, testing
 | Device   | Loopback Interface | IP Address     | Subnet Mask | Purpose                        |
 |----------|--------------------|----------------|-------------|--------------------------------|
 | Router1  | Loopback0          | 10.10.0.10     | /32         | Router identification/MGNT     |
-| Router2  | Loopback0          | 10.10.0.20     | /32         | Router identification          |
+| Router2  | Loopback0          | 10.10.0.20     | /32         | Router identification/MGNT     |
+| SW1       | Loopback0          | 10.10.0.1     | /32         | SW1 identification/MGNT        |
 
 
 ## Port-Channel Addressing
