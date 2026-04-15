@@ -22,4 +22,7 @@ This document defines the IP addressing scheme used in this project including VL
 
 Port-channels are used to provide aggregated and redundant Layer 3 links between network devices.
 
-| Connection              | Port-Channel | Subnet           | Example IP Assignment        |
+| Connection              | Port-Channel | Subnet         | Network Address      |
+|------------------------|-------------|------------------|----------------------|
+
+
