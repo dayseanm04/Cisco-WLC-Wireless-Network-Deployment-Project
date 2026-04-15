@@ -15,6 +15,7 @@ This document defines the IP addressing scheme used in this project including VL
 
 ## Addressing Notes
 - VLAN 50 is used for wireless infrastructure, including the WLC and access points.
+- VLAN 200 is reserved for servers.
 
 
 ## Port-Channel Addressing
