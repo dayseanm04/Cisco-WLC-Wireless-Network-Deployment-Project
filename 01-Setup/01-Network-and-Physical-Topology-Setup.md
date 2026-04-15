@@ -40,7 +40,7 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 - SW1 G1/0/2 → SW2 G1/0/2
 - SW1 G1/0/3 → SW2 G1/0/3
 
-Note: if you forget what which port is connected to which port use **cdp** to dicover the ports and where where connected to.
+Note: if you forget what which port is connected to which port use **cdp** to discover the ports and where where connected to.
 
 
 <img width="791" height="177" alt="R1" src="https://github.com/user-attachments/assets/79e47510-0ae3-4a2a-950b-b498fff1a5ea" />
