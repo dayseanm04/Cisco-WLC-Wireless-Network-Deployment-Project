@@ -10,4 +10,5 @@ This document defines the IP addressing scheme used in this project including VL
 | 10     | HR DPT               | Human Resources          | 192.168.10.0/24     |       |
 | 20     | Administration DPT   | Administration           | 192.168.20.0/24     | 192.168.20.1      |
 | 30     | IT DPT               | Information Technology   | 192.168.30.0/24     | 192.168.30.1      |
+| 50     | WAPs / Management    | WLC and Access Points    | 192.168.50.0/24     | 192.168.50.1      |
 
