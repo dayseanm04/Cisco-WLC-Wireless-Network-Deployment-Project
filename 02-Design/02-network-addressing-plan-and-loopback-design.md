@@ -8,4 +8,5 @@ This document defines the IP addressing scheme used in this project including VL
 | VLAN ID | Name                 | Department / Role        | Subnet              | Default Gateway   |
 |--------|----------------------|--------------------------|---------------------|-------------------|
 | 10     | HR DPT               | Human Resources          | 192.168.10.0/24     |       |
+| 20     | Administration DPT   | Administration           | 192.168.20.0/24     | 192.168.20.1      |
 
