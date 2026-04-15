@@ -8,6 +8,7 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 - Cisco 3650 (SW1 and SW2)
 - Cisco 3504 Wireless LAN Controller (WLC)
 - 3 Wireless Access Points (WAP1, WAP2, WAP3)
+- Serevrs (DHCP)
 - Management PC
 
 
