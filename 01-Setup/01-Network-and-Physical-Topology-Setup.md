@@ -85,6 +85,12 @@ ip routing
 end
 write memory
 ```
+### Configure Loopback Interfaces
+
+```bash
+interface Loopback 0
+ip address <IP Address> 255.255.255.255
+```
 
 ## Reference Topology
 
