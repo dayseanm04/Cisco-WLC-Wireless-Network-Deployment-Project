@@ -18,14 +18,6 @@ This document defines the IP addressing scheme used in this project including VL
 - VLAN 200 is reserved for servers.
 
 
-## Port-Channel Addressing
-
-Port-channels are used to provide aggregated and redundant Layer 3 links between network devices.
-
-| Connection             | Port-Channel | Subnet         | IP Assignment      |
-|------------------------|-------------|-----------------|--------------------|
-| Router1 ↔ Router2      |             |                 |                    |
-
 ## Loopback Interfaces
 Loopback interfaces will be used used for Network device identification, testing, and management.
 
@@ -35,7 +27,13 @@ Loopback interfaces will be used used for Network device identification, testing
 | Router2  | Loopback0          | 10.10.0.20     | /32         | Router identification          |
 
 
+## Port-Channel Addressing
 
+Port-channels are used to provide aggregated and redundant Layer 3 links between network devices.
+
+| Connection             | Port-Channel | Subnet         | IP Assignment      |
+|------------------------|-------------|-----------------|--------------------|
+| Router1 ↔ Router2      |             |                 |                    |
 
 
 
