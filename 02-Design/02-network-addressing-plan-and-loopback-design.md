@@ -13,6 +13,10 @@ This document defines the IP addressing scheme used in this project including VL
 | 50     | WAPs / Management    | WLC and Access Points    | 192.168.50.0/24     |       |
 | 200    | Server VLAN          | Internal Servers         | 10.0.0.0/24         |         |
 
+## Addressing Notes
+- VLAN 50 is used for wireless infrastructure, including the WLC and access points.
+
+
 ## Port-Channel Addressing
 
 
