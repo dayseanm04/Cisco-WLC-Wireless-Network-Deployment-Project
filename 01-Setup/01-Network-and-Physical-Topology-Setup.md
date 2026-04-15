@@ -46,7 +46,8 @@ Note: if you forget what which port is connected to which port use **cdp** to di
 
 <img width="791" height="177" alt="R1" src="https://github.com/user-attachments/assets/79e47510-0ae3-4a2a-950b-b498fff1a5ea" />
 
-<img width="796" height="132" alt="R2" src="https://github.com/user-attachments/assets/f5f9ed50-7203-4721-aa5f-eed5f07ce543" />
+
+<img width="820" height="169" alt="R2" src="https://github.com/user-attachments/assets/9bb03f7b-ec91-4404-aa73-d2649ff371ee" />
 
 <img width="792" height="156" alt="SW1" src="https://github.com/user-attachments/assets/4435b8a7-2bf1-4c06-a295-bcc8ad44d62d" />
 
