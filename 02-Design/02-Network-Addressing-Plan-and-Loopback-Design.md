@@ -29,6 +29,9 @@ Port-channels are used to provide aggregated and redundant Layer 3 links between
 ## Loopback Interfaces
 Loopback interfaces will be used used for Network device identification, testing, and management.
 
+| Device   | Loopback Interface | IP Address     | Subnet Mask | Purpose                        |
+|----------|--------------------|----------------|-------------|--------------------------------|
+
 
 
 
