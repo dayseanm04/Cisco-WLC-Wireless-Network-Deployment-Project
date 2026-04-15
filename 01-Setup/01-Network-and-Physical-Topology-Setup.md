@@ -8,7 +8,7 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 - Cisco 3650 (SW1 and SW2)
 - Cisco 3504 Wireless LAN Controller (WLC)
 - 3 Wireless Access Points (WAP1, WAP2, WAP3)
-- Serevrs (DHCP, Internal-SRV)
+- Serevrs (DHCP, NTP, Internal-SRV)
 - Management PC
 
 
@@ -52,7 +52,6 @@ Note: if you forget what which port is connected to which port use **cdp** to di
 
 
 <img width="785" height="154" alt="SW2" src="https://github.com/user-attachments/assets/db95b333-bbb4-484e-bc93-573978ae3717" />
-
 
 ### Switch to PC Connections
 
