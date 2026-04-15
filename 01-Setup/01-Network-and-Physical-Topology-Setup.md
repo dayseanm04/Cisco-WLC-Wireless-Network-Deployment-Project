@@ -43,7 +43,6 @@ Build the core network topology by connecting all devices and enabling Layer 3 r
 
 Note: if you forget what which port is connected to which port use **cdp** to discover the ports and where where connected to.
 
-
 <img width="791" height="177" alt="R1" src="https://github.com/user-attachments/assets/79e47510-0ae3-4a2a-950b-b498fff1a5ea" />
 
 
@@ -75,6 +74,7 @@ Note: if you forget what which port is connected to which port use **cdp** to di
 
 #### Servers
 - DHCP SRV G0 to SW1 G1/0/5
+- INTERNAL SRV G0 to SW1 G1/0/6
 
 ## Initial Switch Configuration
 
