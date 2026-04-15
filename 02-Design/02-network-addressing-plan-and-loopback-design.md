@@ -20,4 +20,5 @@ This document defines the IP addressing scheme used in this project including VL
 
 ## Port-Channel Addressing
 
+Port-channels are used to provide aggregated and redundant Layer 3 links between network devices.
 
