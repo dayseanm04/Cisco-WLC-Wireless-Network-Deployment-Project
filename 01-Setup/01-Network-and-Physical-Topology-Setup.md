@@ -73,6 +73,9 @@ Note: if you forget what which port is connected to which port use **cdp** to di
 - IT-PC1 → SW1 G1/0/20
 - IT-PC2 → SW1 G1/0/21
 
+#### Servers
+- DHCP SRV G0 to SW1 G1/0/5
+
 ## Initial Switch Configuration
 
 ### Enable Layer 3 Routing on Core Switches
