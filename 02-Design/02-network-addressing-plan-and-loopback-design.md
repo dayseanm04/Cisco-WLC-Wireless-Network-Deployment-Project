@@ -5,3 +5,6 @@ This document defines the IP addressing scheme used in this project including VL
 
 ## VLAN Addressing Plan
 
+| VLAN ID | Name                 | Department / Role        | Subnet              | Default Gateway   |
+|--------|----------------------|--------------------------|---------------------|-------------------|
+
