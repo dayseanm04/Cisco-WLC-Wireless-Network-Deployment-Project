@@ -26,6 +26,7 @@ Port-channels are used to provide aggregated and redundant Layer 3 links between
 |------------------------|-------------|-----------------|--------------------|
 | Router1 ↔ Router2      |             |                 |                    |
 
+## Loopback Interfaces
 
 
 
