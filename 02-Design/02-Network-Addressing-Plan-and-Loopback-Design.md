@@ -33,9 +33,9 @@ Loopback interfaces will be used used for Network device identification, testing
 
 Port-channels are used to provide aggregated and redundant Layer 3 links between network devices.
 
-| Connection             |  Port-Channel |  Subnet         | IP Assignment      |
-|------------------------|---------------|-----------------|--------------------|
-| Router1 ↔ Router2      | PortChannel 1 |  10.20.10.0/30  |                    |
+| Connection             |  Port-Channel |  Subnet         |              IP Assignment      |
+|------------------------|---------------|-----------------|---------------------------------|
+| Router1 ↔ Router2      | PortChannel 1 |  10.20.10.0/30  | R1: 10.20.20.1 / R2: 10.20.20.2 |
 
 
 
