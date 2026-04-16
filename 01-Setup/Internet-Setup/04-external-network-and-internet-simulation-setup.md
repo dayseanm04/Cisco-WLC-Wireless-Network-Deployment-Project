@@ -38,4 +38,35 @@ I will use this external network  to represent the internet. This includes an In
 | INET-WEB-SRV     | NIC      | 172.16.1.20    | 255.255.255.0      | Web Server          |
 | INET-MGNT-PC1    | NIC      | 172.16.1.30    | 255.255.255.0      | Management PC   |
 
+## Configure default gateway for INET Services
+
+On INET-R1 in Global Config Mode:
+
+```bash
+interface g0/0
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
