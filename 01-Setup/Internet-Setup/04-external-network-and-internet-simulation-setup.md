@@ -44,6 +44,7 @@ On INET-R1 in Global Config Mode:
 
 ```bash
 interface g0/0
+ip address 172.16.1.1 255.255.255.0
 ```
 
 
