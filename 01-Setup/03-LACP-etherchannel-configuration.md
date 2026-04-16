@@ -1,3 +1,4 @@
+<img width="771" height="367" alt="SW2" src="https://github.com/user-attachments/assets/62a91e0a-24c2-4113-98c6-49e70e2c9d44" />
 # 03 LACP etherchannel configuration
 
 ## Objective
@@ -55,7 +56,9 @@ ip address 10.20.10.2 255.255.255.252
 
 <img width="754" height="385" alt="SW1" src="https://github.com/user-attachments/assets/b9272019-6230-4fbf-83ba-20c07f132892" />
 
+### show etherchannel summary on SW2
 
+<img width="771" height="367" alt="SW2" src="https://github.com/user-attachments/assets/ce8b89ba-b306-4dff-aebb-632d3cc3a4c9" />
 
 
 
