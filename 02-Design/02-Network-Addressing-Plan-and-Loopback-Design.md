@@ -36,7 +36,8 @@ Port-channels are used to provide aggregated and redundant Layer 3 links between
 | Connection             |  Port-Channel |  Subnet         |              IP Assignment      |
 |------------------------|---------------|-----------------|---------------------------------|
 | Router1 ↔ Router2      | R1 Po 1 / R2 Po2 |  10.20.10.0/30  | R1: 10.20.10.1 / R2: 10.20.10.2 |
-| Router1 ↔ SW1          | R1 Po 2 / SW1 Po1 |  10.20.20.0/30  | R1: 10.20.20.1 / R2: 10.20.20.2 |
+| Router1 ↔ SW1          | R1 Po 2 / SW1 Po1 |  10.20.20.0/30  | R1: 10.20.20.1 / SW1: 10.20.20.2 |
+| Router2 ↔ SW2          | R2 Po 2 / SW2 Po1 |  10.20.20.4/30  | R2: 10.20.20.5 / SW2: 10.20.20.6 |
 
 
 
