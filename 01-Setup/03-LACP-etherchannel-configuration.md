@@ -51,7 +51,9 @@ ip address 10.20.10.2 255.255.255.252
 
 <img width="726" height="369" alt="R2" src="https://github.com/user-attachments/assets/c56f4030-13ef-464d-b28c-803eec6a6c4d" />
 
+### show etherchannel summary on SW1
 
+<img width="754" height="385" alt="SW1" src="https://github.com/user-attachments/assets/b9272019-6230-4fbf-83ba-20c07f132892" />
 
 
 
