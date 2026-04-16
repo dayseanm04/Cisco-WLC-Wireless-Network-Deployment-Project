@@ -47,6 +47,7 @@ interface g0/0
 ip address 172.16.1.1 255.255.255.0
 ```
 
+## Test INET-Devices/Services default gateway reachability
 
 
 
