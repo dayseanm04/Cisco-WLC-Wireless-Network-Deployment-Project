@@ -50,6 +50,7 @@ ip address 205.1.0.2 255.255.255.252
 
 <img width="779" height="116" alt="Router2" src="https://github.com/user-attachments/assets/998a3a91-6113-4d8c-8495-7f76d9be8df5" />
 
+## Verify Connectivity
 
 
 
