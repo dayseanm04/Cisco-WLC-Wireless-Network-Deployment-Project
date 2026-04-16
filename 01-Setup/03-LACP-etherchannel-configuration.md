@@ -47,6 +47,23 @@ ip address 10.20.10.2 255.255.255.252
 
 <img width="750" height="386" alt="R1" src="https://github.com/user-attachments/assets/f0f2fb0f-c076-43af-a9f3-8d6661853840" />
 
+### show etherchannel summary on Router2
+
+<img width="726" height="369" alt="R2" src="https://github.com/user-attachments/assets/c56f4030-13ef-464d-b28c-803eec6a6c4d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
