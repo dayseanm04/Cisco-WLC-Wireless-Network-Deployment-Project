@@ -54,7 +54,8 @@ ip address 205.1.0.2 255.255.255.252
 
 From INET-R1 pinged Enterprise Router1 and 2
 
-<img width="814" height="241" alt="INET-R1-pings-ER" src="https://github.com/user-attachments/assets/7c34ec69-76b9-4382-b04c-5ebbca029769" />
+
+<img width="818" height="245" alt="INET-R1-pings-ER" src="https://github.com/user-attachments/assets/71751fad-4620-42af-a9ca-8ee8466c6b6d" />
 
 
 
