@@ -11,3 +11,11 @@ Simulate an external (internet) network and configure connectivity between the i
 ## Overview
 I will use this external network  to represent the internet. This includes an Internet router, a switch, and public-facing services such as DNS and web servers. 
 
+## Topology Overview
+
+### Enterprise to Internet Connections
+
+| Device        | Interface | Connected To | Interface |
+|--------------|----------|--------------|----------|
+| Router1      | G1/1/1   | INET-R1      | G1/0     |
+| Router2      | G1/1/1   | INET-R1      | G2/0     |
