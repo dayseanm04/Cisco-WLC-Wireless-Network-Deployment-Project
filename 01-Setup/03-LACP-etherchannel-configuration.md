@@ -22,4 +22,7 @@ EtherChannel bundles multiple physical interfaces into a single logical link . I
 In Global Config mode:
 
 ```bash
+interface range g1/1/3-4
+no switchport
+channel-group 1 mode active
 ```
