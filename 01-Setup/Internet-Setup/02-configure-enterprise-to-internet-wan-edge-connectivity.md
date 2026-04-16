@@ -10,6 +10,12 @@ Configure point-to-point WAN links between the enterprise routers and INET-R1 fo
 ## Overview
 This step establishes Layer 3 connectivity between the enterprise edge routers and the simulated internet using /30 subnets. These links represent public-facing WAN connections and allow communication with external services. 
 
+## WAN Link Summary
+
+| Connection        | Device A | Interface | IP Address   | Device B | Interface | IP Address   | Subnet Mask        |
+|------------------|----------|-----------|--------------|----------|-----------|--------------|--------------------|
+| Router1 ↔ INET-R1 | Router1 | G1/1/1    | 205.1.0.2    | INET-R1  | G1/0      | 205.1.0.1    | 255.255.255.252    |
+| Router2 ↔ INET-R1 | Router2 | G1/1/1    | 205.2.0.2    | INET-R1  | G2/0      | 205.2.0.1    | 255.255.255.252    |
 
 
 
