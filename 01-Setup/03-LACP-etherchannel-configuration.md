@@ -43,5 +43,12 @@ ip address 10.20.10.2 255.255.255.252
 
 ## Verification
 
-### show etherchanell summary on Router1
+### show etherchannel summary on Router1
+
+<img width="750" height="386" alt="R1" src="https://github.com/user-attachments/assets/f0f2fb0f-c076-43af-a9f3-8d6661853840" />
+
+
+
+
+
 
