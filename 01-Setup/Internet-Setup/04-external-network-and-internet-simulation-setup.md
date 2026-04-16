@@ -49,8 +49,11 @@ ip address 172.16.1.1 255.255.255.0
 
 ## Test INET-Devices/Services default gateway reachability
 
+<img width="686" height="364" alt="INET-MGNT-PC" src="https://github.com/user-attachments/assets/bc306abd-1e12-409f-a494-2440703347e3" />
+<img width="736" height="368" alt="INET-WS-DG" src="https://github.com/user-attachments/assets/779f8c66-0fa5-4ce3-bda7-20d00f6a2e23" />
+<img width="734" height="405" alt="INET-DNS-DG" src="https://github.com/user-attachments/assets/a1241de7-5b02-4a9f-9f05-82ddc32511bd" />
 
-
+INET DNS, WEB Server and MGNT PC successfully pings their defaulty gateway!
 
 
 
