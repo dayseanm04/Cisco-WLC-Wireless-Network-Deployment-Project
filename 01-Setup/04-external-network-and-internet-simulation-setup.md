@@ -9,5 +9,5 @@ Simulate an external (internet) network and configure connectivity between the i
 
 
 ## Overview
-I will use thius external network  to represent the internet/ISP. This includes an Internet router, a switch, and public-facing services such as DNS and web servers. 
+I will use this external network  to represent the internet. This includes an Internet router, a switch, and public-facing services such as DNS and web servers. 
 
