@@ -14,3 +14,12 @@ EtherChannel bundles multiple physical interfaces into a single logical link . I
 | Router1 ↔ SW1          | R1 Po 2 / SW1 Po 1 |  10.20.20.0/30  | R1: 10.20.20.1 / SW1: 10.20.20.2 |
 | Router2 ↔ SW2          | R2 Po 2 / SW2 Po 1 |  10.20.20.4/30  | R2: 10.20.20.5 / SW2: 10.20.20.6 |
 | SW1 ↔ SW2              | SW1 Po 2 / SW2 Po2 |  10.30.30.0/30  | SW1: 10.20.30.1 / SW2: 10.20.30.2 |
+
+## LACP Configuration (Router1 ↔ Router2)
+
+### Router1
+
+In Global Config mode:
+
+```bash
+```
