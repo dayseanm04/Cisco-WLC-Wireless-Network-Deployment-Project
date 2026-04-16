@@ -34,3 +34,8 @@ interface g1/1/1
 ip address 205.1.0.2 255.255.255.252
 
 ```
+
+## Verify
+
+### show ip interface brief on INET-R1
+
