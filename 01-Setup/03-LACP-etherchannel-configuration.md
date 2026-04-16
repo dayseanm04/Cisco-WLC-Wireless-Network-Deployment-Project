@@ -25,4 +25,9 @@ In Global Config mode:
 interface range g1/1/3-4
 no switchport
 channel-group 1 mode active
+
+interface port-channel1
+ip address 10.20.10.1 255.255.255.252
 ```
+
+### Router2
