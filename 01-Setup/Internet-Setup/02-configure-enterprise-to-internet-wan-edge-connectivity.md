@@ -39,3 +39,5 @@ ip address 205.1.0.2 255.255.255.252
 
 ### show ip interface brief on INET-R1
 
+<img width="821" height="120" alt="ISP-R1" src="https://github.com/user-attachments/assets/e6a4518b-f3ab-42e3-b0dc-42fd5a0ade63" />
+
