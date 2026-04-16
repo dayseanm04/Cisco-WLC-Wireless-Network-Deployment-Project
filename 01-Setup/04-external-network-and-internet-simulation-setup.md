@@ -28,3 +28,14 @@ I will use this external network  to represent the internet. This includes an In
 | INET-SW1     | G1/1     | INET-DNS-SRV     | NIC      |
 | INET-SW1     | G2/1     | INET-WEB-SRV     | NIC      |
 | INET-SW1     | G3/1     | INET-MGNT-PC1    | NIC      |
+
+## IP Addressing (External Network)
+
+| Device           | Interface | IP Address     | Subnet Mask        | Description         |
+|------------------|----------|----------------|--------------------|---------------------|
+| INET-R1          | G0/0     | 172.16.1.1     | 255.255.255.0      | Gateway for INET LAN |
+| INET-DNS-SRV     | NIC      | 172.16.1.10    | 255.255.255.0      | DNS Server          |
+| INET-WEB-SRV     | NIC      | 172.16.1.20    | 255.255.255.0      | Web Server          |
+| INET-MGNT-PC1    | NIC      | 172.16.1.30    | 255.255.255.0      | Management PC   |
+
+
