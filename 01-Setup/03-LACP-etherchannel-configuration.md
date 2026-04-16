@@ -7,6 +7,10 @@ Configure Layer 3 EtherChannel links using LACP to provide redundancy between ne
 EtherChannel bundles multiple physical interfaces into a single logical link . In this design, Layer 3 EtherChannels are used between routers and switches to provide redundancy high availability.
 
 ## EtherChannel Summary
-| Connection        | Port-Channel | Subnet           | Device A IP     | Device B IP     |
-|-------------------|---------------|------------------|----------------|----------------|
-| Router1 ↔ Router2 | Po1         | 10.20.10.0/30    | 10.20.10.1      | 10.20.10.2      |
+
+| Connection             |    Port-Channel    |     Subnet      |           IP Assignment          |
+|------------------------|--------------------|-----------------|----------------------------------|
+| Router1 ↔ Router2      | R1 Po 1 / R2 Po 2  |  10.20.10.0/30  | R1: 10.20.10.1 / R2: 10.20.10.2  |
+| Router1 ↔ SW1          | R1 Po 2 / SW1 Po 1 |  10.20.20.0/30  | R1: 10.20.20.1 / SW1: 10.20.20.2 |
+| Router2 ↔ SW2          | R2 Po 2 / SW2 Po 1 |  10.20.20.4/30  | R2: 10.20.20.5 / SW2: 10.20.20.6 |
+| SW1 ↔ SW2              | SW1 Po 2 / SW2 Po2 |  10.30.30.0/30  | SW1: 10.20.30.1 / SW2: 10.20.30.2 |
