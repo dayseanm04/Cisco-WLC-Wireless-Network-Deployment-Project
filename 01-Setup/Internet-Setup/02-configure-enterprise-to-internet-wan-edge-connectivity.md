@@ -24,7 +24,13 @@ In Global Config mode:
 ```bash
 interface g1/0
 ip address 205.1.0.1 255.255.255.252
+
 ```
 
+## Router1 configuration
 
+```bash
+interface g1/1/1
+ip address 205.1.0.2 255.255.255.252
 
+```
