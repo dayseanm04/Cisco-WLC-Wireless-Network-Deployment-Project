@@ -19,3 +19,12 @@ I will use this external network  to represent the internet. This includes an In
 |--------------|----------|--------------|----------|
 | Router1      | G1/1/1   | INET-R1      | G1/0     |
 | Router2      | G1/1/1   | INET-R1      | G2/0     |
+
+### Internet Internal Connections
+
+| Device        | Interface | Connected To     | Interface |
+|--------------|----------|------------------|----------|
+| INET-R1      | G0/0     | INET-SW1         | G0/1     |
+| INET-SW1     | G1/1     | INET-DNS-SRV     | NIC      |
+| INET-SW1     | G2/1     | INET-WEB-SRV     | NIC      |
+| INET-SW1     | G3/1     | INET-MGNT-PC1    | NIC      |
