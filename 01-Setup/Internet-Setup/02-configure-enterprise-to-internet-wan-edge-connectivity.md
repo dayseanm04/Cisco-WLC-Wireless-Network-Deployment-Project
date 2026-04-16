@@ -41,9 +41,12 @@ ip address 205.1.0.2 255.255.255.252
 
 <img width="821" height="120" alt="ISP-R1" src="https://github.com/user-attachments/assets/e6a4518b-f3ab-42e3-b0dc-42fd5a0ade63" />
 
-### show ip int bri | include GigabitEthernet1/1/ on Router
+### show ip int bri | include GigabitEthernet1/1/ on Router1
 
 <img width="773" height="116" alt="Router1" src="https://github.com/user-attachments/assets/be2fdbb6-5517-4219-9afe-5d7271913068" />
 1
 
+### show ip int bri | include GigabitEthernet1/1/ on Router2
+
+<img width="779" height="116" alt="Router2" src="https://github.com/user-attachments/assets/998a3a91-6113-4d8c-8495-7f76d9be8df5" />
 
