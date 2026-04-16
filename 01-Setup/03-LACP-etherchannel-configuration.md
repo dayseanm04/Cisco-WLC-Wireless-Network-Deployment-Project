@@ -40,3 +40,8 @@ channel-group 1 mode active
 interface port-channel1
 ip address 10.20.10.2 255.255.255.252
 ```
+
+## Verification
+
+### show etherchanell summary on Router1
+
