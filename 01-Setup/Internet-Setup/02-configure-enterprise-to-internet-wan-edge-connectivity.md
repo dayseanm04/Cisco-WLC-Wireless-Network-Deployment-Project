@@ -35,7 +35,7 @@ ip address 205.1.0.2 255.255.255.252
 
 ```
 
-## Verify
+## Verify IP configuration
 
 ### show ip interface brief on INET-R1
 
@@ -49,4 +49,9 @@ ip address 205.1.0.2 255.255.255.252
 ### show ip int bri | include GigabitEthernet1/1/ on Router2
 
 <img width="779" height="116" alt="Router2" src="https://github.com/user-attachments/assets/998a3a91-6113-4d8c-8495-7f76d9be8df5" />
+
+
+
+
+
 
