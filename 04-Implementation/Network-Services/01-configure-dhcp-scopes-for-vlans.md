@@ -7,6 +7,9 @@ Configure DHCP scopes to dynamically assign IP addresses to devices across multi
 
 | Scope Name            | VLAN | Subnet              | Default Gateway   | Start IP        | Max Users | Notes                          |
 |----------------------|------|---------------------|-------------------|-----------------|-----------|--------------------------------|
+| WAP Pool             | 50   | 192.168.50.0/24     | 192.168.50.1      | 192.168.50.10   | 5         | Includes WLC address           |
+| HR-DPT               | 10   | 192.168.10.0/24     | 192.168.10.1      | 192.168.10.5    | 20        | HR department users          |
+| Administration-DPT   | 20   | 192.168.20.0/24     | 192.168.20.1      | 192.168.20.5    | 20        | Administrative users           |
 
 
 
