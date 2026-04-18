@@ -49,7 +49,13 @@ Router2 become neigbors with Router1 and SW2
 
 <img width="810" height="134" alt="SW1" src="https://github.com/user-attachments/assets/e18b5ab8-2d90-4dee-a84b-6a29afea1946" />
 
+SW1 become neigbors with Router1 and SW2
 
+### show ip ospf neighbor on SW2
+
+<img width="839" height="133" alt="SW2" src="https://github.com/user-attachments/assets/ffe67ee6-9960-4182-a665-bfe7a21722b7" />
+
+SW2 become neigbors with Router2 and SW1
 
 
 
