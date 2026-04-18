@@ -43,3 +43,6 @@ ip address 192.168.50.1 255.255.255.0
 no shutdown
 ```
 
+## Configure department VLANs on SW2
+
+
