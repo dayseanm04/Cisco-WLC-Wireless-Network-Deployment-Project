@@ -44,20 +44,5 @@ passive-interface vlan 30
 
 <img width="871" height="314" alt="SW2" src="https://github.com/user-attachments/assets/e3f2578a-8110-43a1-8779-d0915edc7e2b" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Design Considerations
+- Reduces unnecessary OSPF traffic on access networks.
