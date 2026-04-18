@@ -26,6 +26,8 @@ Configure DHCP scopes to dynamically assign IP addresses to devices across multi
 - Maximum Number of Users: 5
 - WLC Address: 192.168.50.254
 
+<img width="968" height="173" alt="DHCP-POOL" src="https://github.com/user-attachments/assets/2b5f726b-6787-4d86-8adb-b23c5568ca7b" />
+
 ## Configuration Notes
 - Each VLAN has its own DHCP scope to maintain proper segmentation.
 - Default gateway addresses correspond to the SVI configured on the switch.
