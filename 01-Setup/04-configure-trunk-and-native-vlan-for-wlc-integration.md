@@ -14,3 +14,14 @@ Configure a trunk link between the SW1 and the Wireless LAN Controller (WLC1) an
 |----------|------|-------------|------------------------------|------------------------------|
 | G1/1/1   | Trunk | 999         | 10, 20, 30, 50, 100, 200     | SW1 to WLC connection     |
 
+### Config
+
+On SW1 in global config mode:
+```bash
+interface g1/1/1
+switchport mode trunk
+switchport trunk native vlan 999
+switchport trunk allowed vlan 10,20,30,50,100,200
+```
+
+
