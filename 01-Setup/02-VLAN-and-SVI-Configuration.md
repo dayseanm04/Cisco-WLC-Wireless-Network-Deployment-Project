@@ -8,6 +8,7 @@ Configure initial VLANs, SVIs, and trunk links to enable network segmentation an
 | VLAN ID | Name       | Purpose                  | Subnet              | Gateway        |
 |--------|-------------|--------------------------|---------------------|----------------|
 | 30     | IT DPT      |  Information Technology  |  	192.168.0.0/24    |      .1        |
+| 20     | Administration DPT   | Administration  |   192.168.1.0/24    |      .1        |
 | 50     | Management  | WLC and management traffic | 192.168.50.0/24   |      .1        |
 | 100    | corp | Initial WLAN VLAN   |          |        |
 | 200    | Server-VLAN | Internal server network   | 10.0.0.0/24         | 10.0.0.1       |
