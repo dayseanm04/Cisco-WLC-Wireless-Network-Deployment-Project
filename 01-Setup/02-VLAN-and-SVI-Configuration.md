@@ -57,6 +57,7 @@ switchport access vlan <ID>
 ```bash
 interface vlan <ID>
 ip address <IP Address> <Subnet Mask>
+ip helper-address 10.0.0.10
 no shutdown
 ```
 
