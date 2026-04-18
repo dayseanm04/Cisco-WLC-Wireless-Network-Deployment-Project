@@ -45,4 +45,16 @@ no shutdown
 
 ## Configure department VLANs on SW2
 
+```bash
+vlan <ID>
+name <VLAN NAME>
+interface range <START> <END>
+switchport access vlan <ID>
+```
+
+
+
+
+
+
 
