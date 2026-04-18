@@ -37,6 +37,11 @@ network 10.20.0.0 0.0.255.255 area 0
 
 <img width="815" height="134" alt="R1" src="https://github.com/user-attachments/assets/715e0776-24f1-4f57-8110-32c1e4b08af3" />
 
+Router1 become neigbors with Router 2 and SW1
+
+### show ip ospf neighbor on Router2
+
+<img width="815" height="137" alt="R2" src="https://github.com/user-attachments/assets/2cfad2f4-4a89-4dbc-a048-7dcbdb6633e2" />
 
 
 
