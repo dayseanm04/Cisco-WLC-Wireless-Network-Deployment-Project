@@ -22,3 +22,14 @@ router ospf 1
 passive-interface vlan 50
 passive-interface vlan 200
 ```
+
+## SW1 config
+
+In global config mode:
+
+```bash
+router ospf 1
+passive-interface vlan 10
+passive-interface vlan 20
+passive-interface vlan 30
+```
