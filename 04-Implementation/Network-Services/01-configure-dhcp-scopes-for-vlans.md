@@ -26,7 +26,7 @@ Configure DHCP scopes to dynamically assign IP addresses to devices across multi
 - Maximum Number of Users: 5
 - WLC Address: 192.168.50.254
 
-[Validate DHCP IP Assignment Test](../../06-Testing-and-Validation/01-validate-dhcp-ip-assignment-on-client-devices.md)
+## [Validate DHCP IP Assignment Test](../../06-Testing-and-Validation/01-validate-dhcp-ip-assignment-on-client-devices.md)
 
 <img width="968" height="173" alt="DHCP-POOL" src="https://github.com/user-attachments/assets/2b5f726b-6787-4d86-8adb-b23c5568ca7b" />
 
