@@ -36,3 +36,24 @@ passive-interface vlan 30
 
 ## Verification
 
+### show ip protocols on SW1
+
+<img width="802" height="290" alt="SW1" src="https://github.com/user-attachments/assets/34c96118-a887-4d92-badc-1b6feb225424" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
