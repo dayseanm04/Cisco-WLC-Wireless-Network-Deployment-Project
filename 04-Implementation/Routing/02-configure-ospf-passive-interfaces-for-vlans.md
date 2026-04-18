@@ -12,3 +12,13 @@ Configure OSPF passive interfaces on VLAN interfaces to prevent unnecessary neig
 | SW2    | VLAN 10          | 10     | HR Department          | Yes     |
 | SW2    | VLAN 20          | 20     | Administration         | Yes     |
 | SW2    | VLAN 30          | 30     | IT Department          | Yes     |
+
+## SW1 config
+
+In global config mode:
+
+```bash
+router ospf 1
+passive-interface vlan 50
+passive-interface vlan 200
+```
