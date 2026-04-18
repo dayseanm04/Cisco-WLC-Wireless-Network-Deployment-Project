@@ -1,4 +1,4 @@
-# 01 Configure DHCP Scopes for VLANs
+ 01 Configure DHCP Scopes for VLANs
 
 ## Objective
 Configure DHCP scopes to dynamically assign IP addresses to devices across multiple VLANs, including wireless infrastructure.
@@ -24,6 +24,12 @@ Configure DHCP scopes to dynamically assign IP addresses to devices across multi
 - Subnet Mask: 255.255.255.0
 - Maximum Number of Users: 5
 - WLC Address: 192.168.50.254
+
+## Configuration Notes
+- Each VLAN has its own DHCP scope to maintain proper segmentation.
+- Default gateway addresses correspond to the SVI configured on the switch.
+- The WAP pool includes the WLC IP to allow access points to discover the controller.
+- IT devices will use static IP addressing.
 
 
 
