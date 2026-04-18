@@ -17,7 +17,13 @@ Configure DHCP scopes to dynamically assign IP addresses to devices across multi
 |-----------|------|-----------------|--------------------------------|
 | IT DPT    | 30   | Static          | Used for IT management systems |
 
-
+## Example Configuration (WAP Pool)
+- Pool Name: WAP Pool
+- Default Gateway: 192.168.50.1
+- Start IP Address: 192.168.50.10
+- Subnet Mask: 255.255.255.0
+- Maximum Number of Users: 5
+- WLC Address: 192.168.50.254
 
 
 
