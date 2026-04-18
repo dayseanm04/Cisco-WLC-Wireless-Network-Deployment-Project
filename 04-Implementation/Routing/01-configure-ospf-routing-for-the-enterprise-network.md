@@ -31,6 +31,27 @@ network 10.10.0.10 0.0.0.0 area 0
 network 10.20.0.0 0.0.255.255 area 0
 ```
 
+## Verification
+
+### show ip ospf neighbor on Router1
+
+<img width="815" height="134" alt="R1" src="https://github.com/user-attachments/assets/715e0776-24f1-4f57-8110-32c1e4b08af3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Configuration Notes
 - OSPF process ID 1 is used across all devices.
 - Loopback interfaces are advertised using a /32 wildcard (0.0.0.0).
