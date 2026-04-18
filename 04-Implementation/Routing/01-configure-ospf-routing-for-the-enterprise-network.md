@@ -23,4 +23,10 @@ Configure OSPF across routers and Layer 3 switches to enable full network commun
 | SW2      | 192.168.0.0           | 0.0.0.255        | 0    | HR VLAN                              |
 | SW2      | 192.168.1.0           | 0.0.0.255        | 0    | Administration VLAN                  |
 
+## Example Configuration (Router1)
 
+```bash
+router ospf 1
+network 10.10.0.10 0.0.0.0 area 0
+network 10.20.0.0 0.0.255.255 area 0
+```
