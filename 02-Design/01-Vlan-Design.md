@@ -10,9 +10,9 @@ The following VLANs are used to segment wired users by department. This improves
 
 | VLAN ID | Name                | Department             | Purpose                          | Subnet | Default Gateway |
 |--------|----------------------|------------------------|----------------------------------|--------|-----------------|
-| 10     | HR DPT               | Human Resources        | HR user devices and resources    | 192.168.0.0/24  | .1     |
-| 20     | Administration DPT   | Administration         | Administrative staff devices     | 192.168.1.0/24   | .1   |
-| 30     | IT DPT               | Information Technology | IT staff and management systems  | N/A    | N/A             |
+| 10     | HR DPT               | Human Resources        | HR user devices and resources    | 192.168.0.0/24  |   .1   |
+| 20     | Administration DPT   | Administration         | Administrative staff devices     | 192.168.1.0/24  |   .1   |
+| 30     | IT DPT               | Information Technology | IT staff and management systems  | 192.168.2.0/24  |   .2   |
 
 | VLAN ID | Name         | Purpose                          | Subnet              | Default Gateway   |
 |--------|-------------|----------------------------------|---------------------|-------------------|
