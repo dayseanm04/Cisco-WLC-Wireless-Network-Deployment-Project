@@ -34,7 +34,7 @@ Verify the assigned IP configuration:
 
 ## Validation Checklist
 
-- Client receives an IP address within the correct subnet
+- Client receives an IP address within the correct subnet. [**DHCP Scopes reference**](../04-Implementation/Network-Services/01-configure-dhcp-scopes-for-vlans.md)
 - Default gateway matches the VLAN SVI. [**VLAN and SVI Configuration**](../01-Setup/02-VLAN-and-SVI-Configuration.md)
 
 
