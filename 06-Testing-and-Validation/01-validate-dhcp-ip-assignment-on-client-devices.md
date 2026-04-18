@@ -32,7 +32,10 @@ Verify the assigned IP configuration:
 <img width="739" height="314" alt="A2" src="https://github.com/user-attachments/assets/df088ee9-c77a-44ee-ba56-861bcf93e2ba" />
  ipconfig /renwew
 
+## Validation Checklist
 
+- Client receives an IP address within the correct subnet
+- Default gateway matches the VLAN SVI
 
 
 
