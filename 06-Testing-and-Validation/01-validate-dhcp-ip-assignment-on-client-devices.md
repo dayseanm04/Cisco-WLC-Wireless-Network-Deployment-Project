@@ -23,6 +23,10 @@ Verify the assigned IP configuration:
 <img width="734" height="304" alt="HR2" src="https://github.com/user-attachments/assets/056ccfc7-b560-44b6-a1fc-f57acf861ec3" />
  ipconfig /renwew
 
+### On A-PC1 ipconfig /renwew
+
+<img width="739" height="317" alt="A1" src="https://github.com/user-attachments/assets/f4ca3546-eb4f-4a6a-96ca-45ed0ca4afdb" />
+
 
 
 
