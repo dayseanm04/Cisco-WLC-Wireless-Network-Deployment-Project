@@ -27,6 +27,10 @@ Verify the assigned IP configuration:
 
 <img width="739" height="317" alt="A1" src="https://github.com/user-attachments/assets/f4ca3546-eb4f-4a6a-96ca-45ed0ca4afdb" />
 
+### On A-PC2
+
+<img width="739" height="314" alt="A2" src="https://github.com/user-attachments/assets/df088ee9-c77a-44ee-ba56-861bcf93e2ba" />
+ ipconfig /renwew
 
 
 
