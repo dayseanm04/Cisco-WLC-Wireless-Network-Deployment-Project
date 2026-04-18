@@ -77,7 +77,7 @@ Note: if you forget what which port is connected to which port use **cdp** to di
 
 ## Initial Switch Configuration
 
-### Enable Layer 3 Routing on Core Switches
+### Enable Layer 3 Routing on the Switches
 
 On **SW1** and **SW2**:
 
@@ -93,6 +93,11 @@ write memory
 ```bash
 interface Loopback 0
 ip address <IP Address> 255.255.255.255
+```
+### Configure logging synchronous on the network devices
+
+```bash
+line 0 console
 ```
 
 ## Reference Topology
