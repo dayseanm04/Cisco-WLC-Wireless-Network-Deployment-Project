@@ -33,3 +33,6 @@ passive-interface vlan 10
 passive-interface vlan 20
 passive-interface vlan 30
 ```
+
+## Verification
+
