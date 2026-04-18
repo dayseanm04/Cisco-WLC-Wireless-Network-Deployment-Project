@@ -35,7 +35,7 @@ Verify the assigned IP configuration:
 ## Validation Checklist
 
 - Client receives an IP address within the correct subnet
-- Default gateway matches the VLAN SVI. [VLAN and SVI Configuration](../01-Setup/02-VLAN-and-SVI-Configuration.md)
+- Default gateway matches the VLAN SVI. [**VLAN and SVI Configuration**](../01-Setup/02-VLAN-and-SVI-Configuration.md)
 
 
 
