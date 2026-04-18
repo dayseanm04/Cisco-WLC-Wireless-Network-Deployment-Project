@@ -28,3 +28,4 @@ switchport trunk allowed vlan 10,20,30,50,100,200
 
 ### show interface trunk on SW1
 
+<img width="738" height="232" alt="V" src="https://github.com/user-attachments/assets/85445eeb-d32c-41f4-8c68-354126b50fa5" />
