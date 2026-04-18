@@ -30,3 +30,10 @@ router ospf 1
 network 10.10.0.10 0.0.0.0 area 0
 network 10.20.0.0 0.0.255.255 area 0
 ```
+
+## Configuration Notes
+- OSPF process ID 1 is used across all devices.
+- Loopback interfaces are advertised using a /32 wildcard (0.0.0.0).
+- Core infrastructure links are summarized using a broader wildcard mask.
+- VLAN networks are advertised to allow inter-VLAN routing.
+
