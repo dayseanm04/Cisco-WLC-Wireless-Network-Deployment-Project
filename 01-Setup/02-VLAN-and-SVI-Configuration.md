@@ -52,9 +52,13 @@ interface range <START> <END>
 switchport access vlan <ID>
 ```
 
+### Configure SVI for the vlans
 
-
-
+```bash
+interface vlan <ID>
+ip address <IP Address> <Subnet Mask>
+no shutdown
+```
 
 
 
