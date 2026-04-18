@@ -24,4 +24,7 @@ switchport trunk native vlan 999
 switchport trunk allowed vlan 10,20,30,50,100,200
 ```
 
+## Verififcation
+
+### show interface trunk on SW1
 
