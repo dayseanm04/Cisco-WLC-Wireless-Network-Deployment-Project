@@ -9,3 +9,10 @@ Verify that client devices successfully obtain IP addresses from the DHCP server
 |----------|------|------------------|---------------------------------|
 | HR-PC1 and 2   | 10   | Human Resources   | Receives IP from DHCP scope     |
 | A-PC1  and 2  | 20   | Administration    | Receives IP from DHCP scope     |
+
+### Step 1: Verify IP Assignment
+
+verify the assigned IP configuration: **ipconfig /renwew**
+
+
+
