@@ -98,6 +98,7 @@ ip address <IP Address> 255.255.255.255
 
 ```bash
 line 0 console
+logging synchronous
 ```
 
 ## Reference Topology
