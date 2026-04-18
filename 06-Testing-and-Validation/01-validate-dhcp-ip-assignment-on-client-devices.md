@@ -12,7 +12,8 @@ Verify that client devices successfully obtain IP addresses from the DHCP server
 
 ### Step 1: Verify IP Assignment
 
-verify the assigned IP configuration: **ipconfig /renwew**
+Verify the assigned IP configuration: 
 
+### On HR-PC1 ipconfig /renwew
 
-
+<img width="735" height="309" alt="HR1" src="https://github.com/user-attachments/assets/e7833299-6f9e-46a8-815f-3149cae7985f" />
