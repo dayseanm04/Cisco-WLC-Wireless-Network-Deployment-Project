@@ -30,5 +30,6 @@ Note: MGNT-PC must be in the same subnet as WLC1
 
 Note: I might not load, just close the browser and redo it!
 
+## Step 3: Create Admin Credentials
 
 
