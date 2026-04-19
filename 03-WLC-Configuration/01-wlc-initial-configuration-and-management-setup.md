@@ -36,3 +36,12 @@ Note: I might not load, just close the browser and redo it!
 |----------------|----------|
 | Username       | admin10  |
 | Password       | Pass123  |
+
+- Click **Start**
+
+---
+
+## Step 3: Configure System Settings
+
+
+
