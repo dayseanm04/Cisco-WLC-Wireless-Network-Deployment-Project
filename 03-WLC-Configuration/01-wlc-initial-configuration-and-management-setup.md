@@ -69,3 +69,9 @@ Note: The default gateway is the SVI I configured on the **SW1** for VLAN 50.
 
 <img width="927" height="653" alt="6" src="https://github.com/user-attachments/assets/5784c5f7-fc94-4a8c-8f2c-ad8e23e95413" />
 
+- Review settings
+- Click **Apply**
+
+<img width="661" height="374" alt="7" src="https://github.com/user-attachments/assets/b83bfe08-6e53-480e-9aff-9492e818ea52" />
+
+- Click **OK** when prompted
