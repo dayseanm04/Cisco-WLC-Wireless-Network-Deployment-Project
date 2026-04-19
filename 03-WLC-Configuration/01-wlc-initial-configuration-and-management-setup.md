@@ -28,6 +28,7 @@ Note: MGNT-PC must be in the same subnet as WLC1
 
 <img width="821" height="677" alt="1" src="https://github.com/user-attachments/assets/7fde4440-15fe-4452-abb5-96235d09b097" />
 
+Note: I might not load, just close the browser and redo it!
 
 
 
