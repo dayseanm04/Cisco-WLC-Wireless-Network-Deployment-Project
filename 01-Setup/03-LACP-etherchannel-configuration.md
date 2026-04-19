@@ -1,4 +1,3 @@
-<img width="771" height="367" alt="SW2" src="https://github.com/user-attachments/assets/62a91e0a-24c2-4113-98c6-49e70e2c9d44" />
 # 03 LACP etherchannel configuration
 
 ## Objective
