@@ -90,4 +90,5 @@ Close the browser
 - Password: Pass123
 
 <img width="908" height="514" alt="9" src="https://github.com/user-attachments/assets/3b21aaca-607f-424d-bad1-80a16385f019" />
+<img width="1190" height="560" alt="10" src="https://github.com/user-attachments/assets/bfbaed17-33f0-41ff-a0b4-1d4e052240ad" />
 
