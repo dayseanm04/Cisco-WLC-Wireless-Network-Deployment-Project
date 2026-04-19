@@ -1,5 +1,9 @@
 # 02 VLAN and SVI Configuration
 
+### Reference Topology
+
+<img width="869" height="448" alt="TFR" src="https://github.com/user-attachments/assets/35f02f41-eb0d-4dce-92b6-820a92301990" />
+
 ## Objective
 Configure initial VLANs, SVIs, and trunk links to enable network segmentation and inter-VLAN communication.
 
