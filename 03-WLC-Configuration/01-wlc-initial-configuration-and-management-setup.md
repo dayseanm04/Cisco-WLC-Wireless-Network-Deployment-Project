@@ -32,4 +32,7 @@ Note: I might not load, just close the browser and redo it!
 
 ## Step 3: Create Admin Credentials
 
-
+| Setting        | Value    |
+|----------------|----------|
+| Username       | admin10  |
+| Password       | Pass123  |
