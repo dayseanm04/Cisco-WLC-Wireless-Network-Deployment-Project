@@ -14,7 +14,7 @@ Perform the initial configuration of the Wireless LAN Controller (WLC1), includi
 - Configure Management IP, subnet mask and default gateway.
 <img width="734" height="306" alt="WLC-MGNT" src="https://github.com/user-attachments/assets/7015a615-d783-4298-80cc-1a92e8d09326" />
 
-## Step 2: Access the WLC1 from MGNT-PC
+## Step 2: configure MGNT -C
 Note: MGNT-PC must be in the same subnet as WLC1
 
 - Configure MGNM-PC1 IP address
@@ -80,4 +80,12 @@ Note: The default gateway is the SVI I configured on the **SW1** for VLAN 50.
 
 You will see this page for a minute, its not going to reboot.
 
-Close the browser and navigate to **https:192.168.50.254**
+Close the browser
+
+## step 8: Access the WLC1 from MGNT-PC
+
+- navigate to **https:192.168.50.254**
+- Log in using the credentials created earlier
+- Username: admin10
+- Password: Pass123
+
