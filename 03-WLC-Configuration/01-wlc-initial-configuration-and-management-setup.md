@@ -84,8 +84,10 @@ Close the browser
 
 ## step 8: Access the WLC1 from MGNT-PC
 
-- navigate to **https:192.168.50.254**
+- Mavigate to **https:192.168.50.254**
 - Log in using the credentials created earlier
 - Username: admin10
 - Password: Pass123
+
+<img width="908" height="514" alt="9" src="https://github.com/user-attachments/assets/3b21aaca-607f-424d-bad1-80a16385f019" />
 
