@@ -43,4 +43,10 @@ Note: I might say request timed out, just close the browser and redo it!
 
 <img width="1059" height="558" alt="2" src="https://github.com/user-attachments/assets/dfe74e88-022c-46f3-83c4-51dbb1ee6a4d" />
 
+## Step 4: Configure Management Interface
+
+<img width="1055" height="600" alt="3" src="https://github.com/user-attachments/assets/5fdd2ef5-01fc-4d4a-93f7-ca97385c842e" />
+
+
+
 
