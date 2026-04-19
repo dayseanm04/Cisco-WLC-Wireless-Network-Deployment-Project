@@ -58,3 +58,8 @@ Note: The default gateway is the SVI I configured on the **SW1** for VLAN 50.
 
 - Click **Next**
 
+## Step 6: RF Parameter Optimization
+
+<img width="999" height="623" alt="5" src="https://github.com/user-attachments/assets/cb573db4-50ec-4b83-99c1-b13937051e22" />
+
+- Click **Next**
