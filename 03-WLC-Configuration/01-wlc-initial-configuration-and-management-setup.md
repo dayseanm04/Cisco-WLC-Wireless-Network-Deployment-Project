@@ -18,3 +18,6 @@ Perform the initial configuration of the Wireless LAN Controller (WLC1), includi
 Note: MGNT-PC must be in the same subnet as WLC1
 
 - Configure MGNM-PC1 IP address
+
+<img width="735" height="287" alt="MGNT-PC-IP" src="https://github.com/user-attachments/assets/ccb442d7-f428-4c7e-9fa8-041bab8bf122" />
+
