@@ -15,3 +15,6 @@ Perform the initial configuration of the Wireless LAN Controller (WLC1), includi
 <img width="734" height="306" alt="WLC-MGNT" src="https://github.com/user-attachments/assets/7015a615-d783-4298-80cc-1a92e8d09326" />
 
 ## Step 2: Access the WLC1 from MGNT-PC
+Note: MGNT-PC must be in the same subnet as WLC1
+
+- Configure MGNM-PC1 IP address
