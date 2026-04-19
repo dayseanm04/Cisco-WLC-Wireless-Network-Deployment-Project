@@ -77,3 +77,7 @@ Note: The default gateway is the SVI I configured on the **SW1** for VLAN 50.
 - Click **OK** when prompted
 
 <img width="754" height="497" alt="8" src="https://github.com/user-attachments/assets/bfd686df-23e9-408c-9b20-6752637f8eb3" />
+
+You will see this page for a minute, its not going to reboot.
+
+Close the browser and navigate to **https:192.168.50.254**
