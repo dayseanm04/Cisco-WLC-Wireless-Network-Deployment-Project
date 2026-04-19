@@ -13,3 +13,5 @@ Perform the initial configuration of the Wireless LAN Controller (WLC1), includi
 - Click **Management**
 - Configure Management IP, subnet mask and default gateway.
 <img width="734" height="306" alt="WLC-MGNT" src="https://github.com/user-attachments/assets/7015a615-d783-4298-80cc-1a92e8d09326" />
+
+## Step 2: Access the WLC1 from MGNT-PC
