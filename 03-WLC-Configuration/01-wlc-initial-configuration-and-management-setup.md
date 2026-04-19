@@ -7,3 +7,9 @@ Perform the initial configuration of the Wireless LAN Controller (WLC1), includi
 
 <img width="869" height="448" alt="TFR" src="https://github.com/user-attachments/assets/c666670d-0315-458a-b806-cd17b8a8669e" />
 
+## Step 1: Configure management IP
+- clicked on **WLC1**
+- Click **Config**
+- Click **Management**
+- Configure Management IP, subnet mask and default gateway.
+<img width="734" height="306" alt="WLC-MGNT" src="https://github.com/user-attachments/assets/7015a615-d783-4298-80cc-1a92e8d09326" />
