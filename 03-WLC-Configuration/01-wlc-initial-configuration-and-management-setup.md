@@ -54,5 +54,7 @@ Note: The default gateway is the SVI I configured on the **SW1** for VLAN 50.
 
 ## Step 5: Configure Wireless Network (WLAN)
 
+<img width="993" height="531" alt="4" src="https://github.com/user-attachments/assets/8207fa6f-8549-490a-ac39-1cb889636457" />
 
+- Click **Next**
 
