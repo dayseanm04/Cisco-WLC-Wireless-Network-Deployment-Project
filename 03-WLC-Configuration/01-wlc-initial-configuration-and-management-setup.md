@@ -62,4 +62,7 @@ Note: The default gateway is the SVI I configured on the **SW1** for VLAN 50.
 
 <img width="999" height="623" alt="5" src="https://github.com/user-attachments/assets/cb573db4-50ec-4b83-99c1-b13937051e22" />
 
+- Leave RF settings as default
 - Click **Next**
+
+## Step 7: Finalize Configuration
