@@ -7,7 +7,7 @@ Perform the initial configuration of the Wireless LAN Controller (WLC1), includi
 
 <img width="869" height="448" alt="TFR" src="https://github.com/user-attachments/assets/c666670d-0315-458a-b806-cd17b8a8669e" />
 
-## Step 1: Configure management IP
+## Step 1: Configure WLC1 management IP
 - clicked on **WLC1**
 - Click **Config**
 - Click **Management**
@@ -24,7 +24,9 @@ Note: MGNT-PC must be in the same subnet as WLC1
 <img width="735" height="287" alt="MGNT-PC-IP" src="https://github.com/user-attachments/assets/ccb442d7-f428-4c7e-9fa8-041bab8bf122" />
 
 - Exit IP config and click on **Web Browser**
+- Navigate to **http:192.168.50.254**
 
+<img width="821" height="677" alt="1" src="https://github.com/user-attachments/assets/7fde4440-15fe-4452-abb5-96235d09b097" />
 
 
 
