@@ -46,3 +46,5 @@ Configured the following:
 - Click **Apply** to save.
 
 <img width="928" height="532" alt="21" src="https://github.com/user-attachments/assets/1e0a2b62-7437-4cf3-b2d6-b6d67085040f" />
+
+<img width="919" height="302" alt="22" src="https://github.com/user-attachments/assets/9a1b552b-dfa6-4b9b-8506-00aa71a776e8" />
