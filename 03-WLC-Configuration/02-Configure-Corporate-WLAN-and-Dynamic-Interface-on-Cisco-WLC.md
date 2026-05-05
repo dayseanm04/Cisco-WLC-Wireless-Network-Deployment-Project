@@ -49,7 +49,7 @@ Configured the following:
 <img width="1192" height="754" alt="6" src="https://github.com/user-attachments/assets/5e214500-7140-4468-9783-8cb3784d519f" />
 
 ### Create a WLAN
-- click on **WLANs**
+- Click on **WLANs**
 
 <img width="1212" height="460" alt="7" src="https://github.com/user-attachments/assets/5a67b02d-ca40-40b1-97ae-41076579389c" />
 
@@ -58,22 +58,8 @@ Configured the following:
 - **Profile Name**: corp-wifi
 - **SSID**: corp-wifi
 - **ID**:: 1
-- click **Apply** to save
+- Click **Apply** to save
 
 <img width="1218" height="476" alt="8" src="https://github.com/user-attachments/assets/b22d8abb-4af9-4278-a344-f79d0ff1ac63" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Note: I will configure wireless security later!
