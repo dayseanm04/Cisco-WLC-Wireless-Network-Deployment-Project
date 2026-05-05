@@ -35,3 +35,13 @@ Configure a **Guest** wireless network for the enterprise on the Wireless LAN Co
 
 <img width="1250" height="405" alt="20" src="https://github.com/user-attachments/assets/ac72e65e-9c65-4cd5-8c73-b166d363264b" />
 
+### Configure a dynamic interface
+
+Configured the following:
+- **Port id**: 2
+- **IP address**: 172.16.2.10
+- **Netmask**: 255.255.255.0
+- **Default Gateway**: 172.16.2.1
+- **DHCP Server**: 10.0.0.10
+- Click **Apply** to save.
+
