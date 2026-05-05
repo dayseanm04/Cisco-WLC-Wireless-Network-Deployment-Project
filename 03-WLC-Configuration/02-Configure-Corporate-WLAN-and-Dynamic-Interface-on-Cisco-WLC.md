@@ -59,3 +59,21 @@ Configured the following:
 - **SSID**: corp-wifi
 - **ID**:: 1
 - click **Apply** to save
+
+<img width="1218" height="476" alt="8" src="https://github.com/user-attachments/assets/b22d8abb-4af9-4278-a344-f79d0ff1ac63" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
