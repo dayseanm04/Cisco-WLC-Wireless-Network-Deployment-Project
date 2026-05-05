@@ -33,3 +33,7 @@ Configure a wireless network for the enterprise on the Wireless LAN Controller (
 - **Interface Name**: corp-wifi
 - **VLAN ID**: 500
 - Click **Apply**
+
+<img width="1211" height="468" alt="4" src="https://github.com/user-attachments/assets/7e163dbe-0d32-41ea-8d7a-9dea884c7196" />
+
+
