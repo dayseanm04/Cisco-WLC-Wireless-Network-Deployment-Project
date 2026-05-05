@@ -19,3 +19,10 @@ Configure a **Guest** wireless network for the enterprise on the Wireless LAN Co
 
 <img width="1244" height="646" alt="1" src="https://github.com/user-attachments/assets/2c7cdf08-3dd1-4364-ba15-3fb15d0beced" />
 
+### Create a dynamic interface
+- Click on **CONTROLLER**
+
+<img width="1242" height="545" alt="2" src="https://github.com/user-attachments/assets/4d203b1e-fdc0-4a3f-8a1a-79e1eb9d8010" />
+
+
+
