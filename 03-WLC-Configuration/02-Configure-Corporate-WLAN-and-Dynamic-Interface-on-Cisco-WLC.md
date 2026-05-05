@@ -15,4 +15,8 @@ Configure a wireless network for the enterprise on the Wireless LAN Controller (
 - Click on Desktop
 - Browser
 - Navigate to **https://192.168.50.254**
-- login 
+- Login 
+
+<img width="1244" height="646" alt="1" src="https://github.com/user-attachments/assets/2c7cdf08-3dd1-4364-ba15-3fb15d0beced" />
+
+
