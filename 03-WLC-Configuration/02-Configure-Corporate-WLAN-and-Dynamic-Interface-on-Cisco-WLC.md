@@ -39,8 +39,18 @@ Configure a wireless network for the enterprise on the Wireless LAN Controller (
 ### Configure the dynamic interface
 
 Configured the following:
+- **Port id**: 1
 - **IP address**: 172.16.1.10
 - **Netmask**: 255.255.255.0
 - **Default Gateway**: 172.16.1.1
 - **DHCP Server**: 10.0.0.10
+- Click **Apply** to save.
+
+
+
+
+
+
+
+
 
