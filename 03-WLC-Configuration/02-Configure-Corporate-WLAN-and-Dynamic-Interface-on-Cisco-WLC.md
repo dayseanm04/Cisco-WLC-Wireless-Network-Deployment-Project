@@ -11,3 +11,8 @@ Configure a wireless network for the enterprise on the Wireless LAN Controller (
 
 ### Access the WLC1 on MGNT-PC
 
+- Click on MGNT-PC
+- Click on Desktop
+- Browser
+- Navigate to **https://192.168.50.254**
+- login 
