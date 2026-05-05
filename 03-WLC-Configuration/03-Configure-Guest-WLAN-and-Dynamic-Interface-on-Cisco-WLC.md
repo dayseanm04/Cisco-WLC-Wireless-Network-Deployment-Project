@@ -45,3 +45,4 @@ Configured the following:
 - **DHCP Server**: 10.0.0.10
 - Click **Apply** to save.
 
+<img width="928" height="532" alt="21" src="https://github.com/user-attachments/assets/1e0a2b62-7437-4cf3-b2d6-b6d67085040f" />
