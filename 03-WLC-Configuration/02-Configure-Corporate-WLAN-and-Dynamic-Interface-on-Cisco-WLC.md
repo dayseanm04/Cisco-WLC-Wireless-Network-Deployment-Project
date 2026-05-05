@@ -46,6 +46,7 @@ Configured the following:
 - **DHCP Server**: 10.0.0.10
 - Click **Apply** to save.
 
+<img width="1192" height="754" alt="6" src="https://github.com/user-attachments/assets/5e214500-7140-4468-9783-8cb3784d519f" />
 
 
 
