@@ -53,6 +53,7 @@ Configured the following:
 
 <img width="1212" height="460" alt="7" src="https://github.com/user-attachments/assets/5a67b02d-ca40-40b1-97ae-41076579389c" />
 
+- Click Go next to "**Create New**" on the top right
 
 
 
