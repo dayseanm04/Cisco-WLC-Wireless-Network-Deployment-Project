@@ -33,3 +33,5 @@ Configure a **Guest** wireless network for the enterprise on the Wireless LAN Co
 - **VLAN ID**: 510
 - Click **Apply**
 
+<img width="1250" height="405" alt="20" src="https://github.com/user-attachments/assets/ac72e65e-9c65-4cd5-8c73-b166d363264b" />
+
