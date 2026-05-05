@@ -42,6 +42,5 @@ Configured the following:
 - **IP address**: 172.16.1.10
 - **Netmask**: 255.255.255.0
 - **Default Gateway**: 172.16.1.1
-
-
+- **DHCP Server**: 10.0.0.10
 
