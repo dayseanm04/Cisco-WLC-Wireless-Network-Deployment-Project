@@ -58,8 +58,8 @@ Configured the following:
 Configured the following:
 - **Profile Name**: guest-wifi
 - **SSID**: guest-wifi
-- **ID**:: 2
+- **ID**: 2
 - Click **Apply** to save
 
-
+<img width="1243" height="456" alt="24" src="https://github.com/user-attachments/assets/758abb4e-b23f-4090-8798-4eb469255681" />
 
