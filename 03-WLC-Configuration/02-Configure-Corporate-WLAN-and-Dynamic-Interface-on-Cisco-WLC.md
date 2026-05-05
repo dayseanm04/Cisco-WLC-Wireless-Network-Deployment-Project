@@ -48,9 +48,8 @@ Configured the following:
 
 <img width="1192" height="754" alt="6" src="https://github.com/user-attachments/assets/5e214500-7140-4468-9783-8cb3784d519f" />
 
-
-
-
+### Create a WLAN
+- click on **WLANs**
 
 
 
