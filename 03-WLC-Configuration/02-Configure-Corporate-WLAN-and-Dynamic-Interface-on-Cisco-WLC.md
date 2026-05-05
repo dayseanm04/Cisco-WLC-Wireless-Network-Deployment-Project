@@ -25,4 +25,7 @@ Configure a wireless network for the enterprise on the Wireless LAN Controller (
 
 <img width="1242" height="545" alt="2" src="https://github.com/user-attachments/assets/4d203b1e-fdc0-4a3f-8a1a-79e1eb9d8010" />
 
+- Click on **Interfaces
 
+<img width="1242" height="473" alt="3" src="https://github.com/user-attachments/assets/91792db6-d8e7-4b0e-a110-10cb28147f43" />
+**
