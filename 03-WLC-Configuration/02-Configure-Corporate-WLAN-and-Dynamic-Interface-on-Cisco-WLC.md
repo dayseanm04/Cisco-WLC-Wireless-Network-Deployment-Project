@@ -62,4 +62,6 @@ Configured the following:
 
 <img width="1218" height="476" alt="8" src="https://github.com/user-attachments/assets/b22d8abb-4af9-4278-a344-f79d0ff1ac63" />
 
-Note: I will configure wireless security later!
+<img width="1224" height="486" alt="10" src="https://github.com/user-attachments/assets/b2dc78b9-913e-4b0d-92c8-3e99117343d6" />
+
+### Note: I will configure wireless security later!
