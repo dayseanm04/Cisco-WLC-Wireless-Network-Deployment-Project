@@ -48,7 +48,7 @@ Configured the following:
 
 <img width="1192" height="754" alt="6" src="https://github.com/user-attachments/assets/5e214500-7140-4468-9783-8cb3784d519f" />
 
-### Create a WLAN
+### Create the WLAN for the corporate-wifi
 - Click on **WLANs**
 
 <img width="1212" height="460" alt="7" src="https://github.com/user-attachments/assets/5a67b02d-ca40-40b1-97ae-41076579389c" />
