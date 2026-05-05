@@ -48,3 +48,18 @@ Configured the following:
 <img width="928" height="532" alt="21" src="https://github.com/user-attachments/assets/1e0a2b62-7437-4cf3-b2d6-b6d67085040f" />
 
 <img width="919" height="302" alt="22" src="https://github.com/user-attachments/assets/9a1b552b-dfa6-4b9b-8506-00aa71a776e8" />
+
+### Create the WLAN for the guest-wifi
+- Click on **WLANs**
+
+<img width="1212" height="460" alt="7" src="https://github.com/user-attachments/assets/5a67b02d-ca40-40b1-97ae-41076579389c" />
+
+- Click **Go** next to "**Create New**" on the top right
+Configured the following:
+- **Profile Name**: guest-wifi
+- **SSID**: guest-wifi
+- **ID**:: 2
+- Click **Apply** to save
+
+
+
