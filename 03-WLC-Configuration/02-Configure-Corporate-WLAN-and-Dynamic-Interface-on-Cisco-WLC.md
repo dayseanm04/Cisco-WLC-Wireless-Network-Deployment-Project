@@ -51,6 +51,8 @@ Configured the following:
 ### Create a WLAN
 - click on **WLANs**
 
+<img width="1212" height="460" alt="7" src="https://github.com/user-attachments/assets/5a67b02d-ca40-40b1-97ae-41076579389c" />
+
 
 
 
