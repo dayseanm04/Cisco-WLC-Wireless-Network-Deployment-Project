@@ -6,3 +6,5 @@ Configure a **Guest** wireless network for the enterprise on the Wireless LAN Co
 ## Reference Topology
 
 <img width="896" height="447" alt="TFR" src="https://github.com/user-attachments/assets/983958d9-e25e-47b4-860f-577488f874e1" />
+
+## Cconfigure dynamic interface for the Guest WLAN
