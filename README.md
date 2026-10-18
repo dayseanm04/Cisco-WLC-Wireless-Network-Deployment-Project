@@ -29,6 +29,7 @@ The goal was to practice what a network admin does when rolling out wireless in 
 | 20 | Administration | Admin users | 192.168.1.0/24 |
 | 30 | IT | IT users (static IPs) | 192.168.2.0/24 |
 | 50 | Management | WLC, APs, management PC | 192.168.50.0/24 |
+| 200 | Servers | Internal servers | 10.0.0.0/24 |
 
 
 
