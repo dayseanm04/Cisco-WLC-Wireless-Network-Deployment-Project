@@ -17,7 +17,7 @@ Configure initial VLANs, SVIs, and trunk links to enable network segmentation an
 | 50     | Management  | WLC and management traffic | 192.168.50.0/24   |      .1        |
 | 200    | Server-VLAN | Internal server network   | 10.0.0.0/24         |     .1       |
 | 500    | corp-wifi |  corp wifi  | 192.168.100.0/24 |        | .1
-| 510    | guest-wifi | guest wifi   | 192.168.120.0/24 |        | .1
+| 510    | guest-wifi | guest wifi   | 192.168.110.0/24 |        | .1
 
 ### Example Configuration (VLAN)
 
