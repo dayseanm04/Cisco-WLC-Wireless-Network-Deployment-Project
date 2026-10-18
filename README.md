@@ -27,6 +27,8 @@ The goal was to practice what a network admin does when rolling out wireless in 
 |------|------|---------|---------|
 | 10 | HR | HR users | 192.168.0.0/24 |
 | 20 | Administration | Admin users | 192.168.1.0/24 |
+| 30 | IT | IT users (static IPs) | 192.168.2.0/24 |
+
 
 
 
