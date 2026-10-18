@@ -47,6 +47,8 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - Set passive interfaces on user and server VLANs so OSPF only forms neighbors where it should
 - Verified neighbor relationships on every device
 
+### Network Services
+
 
 
 
