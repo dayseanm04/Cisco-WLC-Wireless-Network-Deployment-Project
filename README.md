@@ -31,6 +31,7 @@ The goal was to practice what a network admin does when rolling out wireless in 
 | 50 | Management | WLC, APs, management PC | 192.168.50.0/24 |
 | 200 | Servers | Internal servers | 10.0.0.0/24 |
 
+## What I Built
 
 
 
