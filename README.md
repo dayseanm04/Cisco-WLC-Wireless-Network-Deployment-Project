@@ -58,6 +58,11 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - **Guest WLAN** (`guest-wifi`) with its own dynamic interface, kept separate from corporate traffic
 
 ### Internet Simulation
+- Built a simulated internet with a router, DNS server, and web server
+
+
+
+
 
 
 
