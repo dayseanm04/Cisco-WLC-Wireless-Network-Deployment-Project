@@ -45,6 +45,7 @@ The goal was to practice what a network admin does when rolling out wireless in 
 ### Routing
 - Configured **OSPF (Area 0)** across both routers and both switches
 - Set passive interfaces on user and server VLANs so OSPF only forms neighbors where it should
+- Verified neighbor relationships on every device
 
 
 
