@@ -18,4 +18,5 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - 3 × wireless access points (WAP1–WAP3)
 - Servers: DHCP, NTP, internal server
 - Department PCs and a management PC
+- Simulated internet: INET-R1, a switch, DNS server, web s
 
