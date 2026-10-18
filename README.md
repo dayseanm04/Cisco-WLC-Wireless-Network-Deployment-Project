@@ -57,7 +57,7 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - **Corporate WLAN** (`corp-wifi`) with its own dynamic interface
 - **Guest WLAN** (`guest-wifi`) with its own dynamic interface, kept separate from corporate traffic
 
-
+### Internet Simulation
 
 
 
