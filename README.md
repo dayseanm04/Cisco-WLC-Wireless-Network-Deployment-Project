@@ -21,3 +21,7 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - Department PCs and a management PC
 - Simulated internet: INET-R1, a switch, DNS server, web s
 
+## VLANs
+
+| VLAN | Name | Purpose | Network |
+|------|------|---------|---------|
