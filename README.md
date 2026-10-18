@@ -64,6 +64,7 @@ The goal was to practice what a network admin does when rolling out wireless in 
 ## Not Finished
 - Wireless client connection testing on both WLANs
 - Network security (ACLs, port security, WLAN security)
+- Full routing out to the simulated internet
 
 
 
