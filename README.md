@@ -61,6 +61,9 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - Built a simulated internet with a router, DNS server, and web server
 - Configured WAN links from both enterprise routers to the internet router
 
+## Not Finished
+- Wireless client connection testing on both WLANs
+
 
 
 
