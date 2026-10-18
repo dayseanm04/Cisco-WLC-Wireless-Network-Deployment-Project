@@ -66,7 +66,9 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - Network security (ACLs, port security, WLAN security)
 - Full routing out to the simulated internet
 
+## Skills Shown
 
+**`Cisco WLC`** · **`Wireless LAN`** · **`VLANs`** · **`Inter-VLAN Routing`** · **`EtherChannel / LACP`** · **`OSPF`** · **`DHCP`** · **`Trunking`** · **`Network Design`** · **`Cisco Packet Tracer`**
 
 
 
