@@ -48,6 +48,7 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - Verified neighbor relationships on every device
 
 ### Network Services
+- DHCP scopes for the HR, Administration, and AP/management VLANs
 
 
 
