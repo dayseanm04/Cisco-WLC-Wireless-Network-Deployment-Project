@@ -42,7 +42,8 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - Built **Layer 3 EtherChannels with LACP** between routers and switches for redundancy
 - Configured a trunk from SW1 to the WLC with a native VLAN
 
-
+### Routing
+- Configured **OSPF (Area 0)** across both routers and both switches
 
 
 
