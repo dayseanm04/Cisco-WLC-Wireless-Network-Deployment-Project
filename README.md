@@ -54,6 +54,8 @@ The goal was to practice what a network admin does when rolling out wireless in 
 
 ### Wireless (WLC)
 - Initial WLC setup and management access from the management PC
+- **Corporate WLAN** (`corp-wifi`) with its own dynamic interface
+
 
 
 
