@@ -53,7 +53,7 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - Validated that HR and Admin PCs pull the right address and gateway
 
 ### Wireless (WLC)
-
+- Initial WLC setup and management access from the management PC
 
 
 
