@@ -37,6 +37,9 @@ The goal was to practice what a network admin does when rolling out wireless in 
 - VLAN design separating departments, management, and servers
 - IP addressing plan with loopbacks on every router and switch for device ID and management
 
+### Core Network Setup
+- Created VLANs and SVIs for inter-VLAN routing
+
 
 
 
