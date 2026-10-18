@@ -49,7 +49,7 @@ The goal was to practice what a network admin does when rolling out wireless in 
 
 ### Network Services
 - DHCP scopes for the HR, Administration, and AP/management VLANs
-
+- DHCP option pointing access points to the WLC so they can find it
 
 
 
