@@ -34,6 +34,7 @@ The goal was to practice what a network admin does when rolling out wireless in 
 ## What I Built
 
 ### Network Design
+- VLAN design separating departments, management, and servers
 
 
 
