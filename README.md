@@ -6,3 +6,4 @@
 
 ## Overview
 
+In this project I designed and built an enterprise network in Cisco Packet Tracer with a centralized Cisco 3504 Wireless LAN Controller (WLC) managing three access points. 
