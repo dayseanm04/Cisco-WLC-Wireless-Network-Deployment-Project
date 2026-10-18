@@ -13,3 +13,5 @@ The goal was to practice what a network admin does when rolling out wireless in 
 ## Devices
 
 - 2 × Cisco 3650 Layer 3 switches acting as edge routers (Router1, Router2)
+- 2 × Cisco 3650 switches (SW1, SW2)
+
