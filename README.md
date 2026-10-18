@@ -10,3 +10,6 @@ The goal was to practice what a network admin does when rolling out wireless in 
 
 > **Status: Paused.** I stopped this project partway through because Cisco Packet Tracer kept giving me problems with the wireless side of the lab. I moved my time to my [**Nagios Network Monitoring Project**](https://github.com/dayseanm04). Everything documented below was built and verified before I paused.
 
+## Devices
+
+- 2 × Cisco 3650 Layer 3 switches acting as edge routers (Router1, Router2)
