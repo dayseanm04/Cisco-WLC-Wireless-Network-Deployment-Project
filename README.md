@@ -26,6 +26,8 @@ The goal was to practice what a network admin does when rolling out wireless in 
 | VLAN | Name | Purpose | Network |
 |------|------|---------|---------|
 | 10 | HR | HR users | 192.168.0.0/24 |
+| 20 | Administration | Admin users | 192.168.1.0/24 |
+
 
 
 
